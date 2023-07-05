@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Distribuidora
+comment1.params=nit\ nombreCarniceria\ direccion
+comment1.target=Distribuidora(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getNombreCarniceria()
+comment4.params=nombreCarniceria
+comment4.target=void\ setNombreCarniceria(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=int\ getNumclientes()
+comment8.params=
+comment8.target=double\ calcularPromedioGeneral()
+comment9.params=identificacion\ nombre\ venta
+comment9.target=void\ nuevoCliente(java.lang.String,\ java.lang.String,\ double)
+numComments=10

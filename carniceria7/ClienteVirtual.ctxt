@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClienteVirtual
+comment1.params=identificacion\ nombre\ venta
+comment1.target=ClienteVirtual(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+comment3.params=
+comment3.target=double\ getVenta()
+comment4.params=venta
+comment4.target=void\ setVenta(double)
+numComments=5
